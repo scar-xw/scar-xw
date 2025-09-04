@@ -1,6 +1,7 @@
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!+to+my+Profile!)](https://git.io/typing-svg)
 
                   
-# 🛜 Hi! I'm Rebecca!
+## 🛜 Hi! I'm Rebecca!
 👩🏻‍💻 Software Engineer student <br>🎨 Sharing about my journey and learnings in tech<br>🌷 Women in STEM<br>💭 Currently learning about cloud computing and AI
 
 

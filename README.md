@@ -31,5 +31,5 @@
 
 ---
 ## 🌐 Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebecca-mcdonnell-a55833248) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beccabessa2@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beccabessa2@gmail.com) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

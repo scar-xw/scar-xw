@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/demo/?font=Pixelify+Sans&size=30&letterSpacing=1px&color=2EF7EB&lines=Welcome!;I+am+Rebecca+McDonnell;Software+Eng.+Student;Irish+%2B+Brazilian+%3D+%3C3)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&letterSpacing=1px&pause=1000&color=2EF7EB&width=435&lines=Welcome!;I+am+Rebecca+McDonnell;Software+Eng.+Student;Irish+%2B+Brazilian+%3D+%3C3)](https://git.io/typing-svg)
 
 ## 🛜 Hello! I'm Rebecca!
 👩🏻‍💻 Software Engineer student <br>🎨 Sharing about my journey and learnings in tech<br>🌷 Women in STEM<br>💭 Currently learning about cloud computing and AI

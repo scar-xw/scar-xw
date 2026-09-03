@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&letterSpacing=1px&pause=1000&color=21F7F1&width=435&lines=Welcome!;I+am+Rebecca!;Software+Engineer;Irish+%2B+Brazilian+%3D+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=42&letterSpacing=1px&pause=1000&color=1D03F7&width=435&lines=Welcome!;I+am+Rebecca!;Software+Engineer;Irish+%2B+Brazilian+%3D+%3C3)](https://git.io/typing-svg)
 
-## 🛜 Hello! I'm Rebecca!
-👩🏻‍💻 Software Engineer student <br>🎨 Sharing about my journey and learnings in tech<br>🌷 Women in STEM<br>💭 Currently learning about cloud computing and AI
+## 🌀 Hello! I'm Rebecca!
+💙 Software Engineer student <br>💙 Sharing about my journey and learnings in tech<br>💙 Women in STEM<br>💙 Currently learning about cloud computing and AI
 
 
 
@@ -9,18 +9,11 @@
 
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-## 📊 GitHub Stats:
-<div class='container'>
-<img style="height: auto; width: 41.18%;" class="img" src="https://github-readme-stats.vercel.app/api?username=scar-xw&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
-&nbsp;
-&nbsp;
-<img style="height: auto; width: 45%;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=scar-xw&theme=radical&hide_border=true" /></div>
-</div>
+ ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 
 
-### ✍️ Dev Quote of the day!
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧿 Dev Quote of the day!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scar-xw/scar-xw/output/github-contribution-grid-snake-dark.svg">
